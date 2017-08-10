@@ -1,34 +1,6 @@
 {
-  "id": "fc26973d-5c1a-41b4-afea-d45cd6d0f439",
-  "timestamp": "2017-08-10T14:16:51.368Z",
-  "lang": "en",
-  "result": {
-    "source": "agent",
-    "resolvedQuery": "zxc",
-    "action": "input.unknown",
-    "actionIncomplete": false,
-    "parameters": {},
-    "contexts": [],
-    "metadata": {
-      "intentId": "2b0b6103-b82e-4cfa-9c33-a5873286c317",
-      "webhookUsed": "false",
-      "webhookForSlotFillingUsed": "false",
-      "intentName": "Default Fallback Intent"
-    },
-    "fulfillment": {
+ 
       "speech": "asdasd?",
-      "messages": [
-        {
-          "type": 0,
-          "speech": "asdasd."
-        }
-      ]
-    },
-    "score": 1
-  },
-  "status": {
-    "code": 200,
-    "errorType": "success"
-  },
-  "sessionId": "5a6ece18-aa1b-463f-89b0-2a2f04b5677e"
+      "displayText":"asdasdasdasd"
+
 }
